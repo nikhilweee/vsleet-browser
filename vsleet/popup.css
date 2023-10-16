@@ -1,0 +1,20 @@
+form {
+  display: table;
+  border-spacing: 0.5em 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+  display: table-row;
+}
+
+label {
+  display: table-cell;
+}
+
+input {
+  display: table-cell;
+}
