@@ -5,7 +5,7 @@
   "description": "VSLeet",
   "permissions": ["cookies"],
   "icons": {
-    "128": "images/leetcode.png"
+    "128": "images/vsleet.png"
   },
   "action": {
     "default_title": "Open Insights",
